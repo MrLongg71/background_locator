@@ -20,6 +20,9 @@ dev_dependencies:
   background_locator_2:
     path: ../
 
+  firebase_messaging:
+  firebase_core:
+
   path_provider: ^2.0.8
   location_permissions: any
 
